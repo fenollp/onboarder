@@ -25,7 +25,7 @@ app.get('/', (request, response) => {
       data: {
         "firstname": "Pierre",
         "lastname": "Fenoll",
-        "email": "pierrefenoll@gmail.com",
+        "email": "pierrefenoll+cc@gmail.com",
         "id":appID
       },
       headers: { "Content-Type": "application/json" }
